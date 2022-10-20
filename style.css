@@ -1,0 +1,12 @@
+body {
+    margin-top: 4%;
+    margin-right: 4%;
+    margin-bottom: 3%;
+    margin-left: 1%;
+}
+
+footer {
+    background-color: #dbdbdb;
+    display: flex;
+    flex-direction: row;
+}
